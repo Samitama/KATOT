@@ -1,6 +1,6 @@
 # KATOT Araç Takımı
 
-/img/3D View.png
+![alt text](https://github.com/Samitama/KATOT/tree/main/img/3D View.png?raw=true)
 3d görünümü
 
 /img/PCB.png
