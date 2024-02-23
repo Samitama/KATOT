@@ -1,10 +1,10 @@
 # KATOT Araç Takımı
 
-![alt text](https://github.com/Samitama/KATOT/tree/main/img/3D View.png?raw=true)
+![alt text](https://github.com/Samitama/KATOT/tree/main/img/3D_View.png?raw=true)
 3d görünümü
 
-/img/PCB.png
+![alt text](https://github.com/Samitama/KATOT/tree/main/img/PCB.png?raw=true)
 PCB Dizaynı
 
-/img/schematic.png
+![alt text](https://github.com/Samitama/KATOT/tree/main/img/schematic.png?raw=true)
 Şematik tasarımı
