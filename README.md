@@ -1,5 +1,8 @@
 # KATOT Autonomous Car Team
 
+![](img/PCB_Demo.png?raw=true)
+PCB
+
 ![](img/schematic.png?raw=true)
 Schematic Design
 
