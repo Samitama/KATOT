@@ -1,10 +1,13 @@
-# KATOT Araç Takımı
+# KATOT Autonomous Car Team
 
-![](img/3D_View.png?raw=true)
-3d görünümü
-
-![](img/PCB.png?raw=true)
-PCB Dizaynı
+![](img/PCB_Demo.png?raw=true)
+PCB
 
 ![](img/schematic.png?raw=true)
-Şematik tasarımı
+Schematic Design
+
+![](img/PCB.png?raw=true)
+PCB Design
+
+![](img/3D_View.png?raw=true)
+3D View
